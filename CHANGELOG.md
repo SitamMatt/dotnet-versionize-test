@@ -2,6 +2,13 @@
 
 All api changes are noted below
 
+<a name="1.0.1"></a>
+## 1.0.1 (2022-5-28)
+
+### Other
+
+* **README:** Added link do Versionize repository
+
 <a name="1.0.0"></a>
 ## 1.0.0 (2022-5-28)
 
