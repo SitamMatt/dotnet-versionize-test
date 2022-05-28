@@ -2,7 +2,7 @@
 public class ExampleClass
 {
     public void FeatureOne(){
-        
+        Console.WriteLine("This is feature One");
     }
 
     public void FeatureTwo(){
